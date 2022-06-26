@@ -3,7 +3,7 @@ import turtle
 t = turtle.Turtle()
 t.shape('turtle')
 
-step=5
+step=10
 
 def moveRight():
     t.setheading(0)
